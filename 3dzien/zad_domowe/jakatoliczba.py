@@ -1,3 +1,4 @@
+
 import random
 
 print("Zgadnij jaką liczbę zakresu od 1-100 dla Ciebie mam...")
