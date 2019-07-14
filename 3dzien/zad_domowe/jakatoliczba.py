@@ -1,4 +1,3 @@
-
 import random
 
 print("Zgadnij jaką liczbę zakresu od 1-100 dla Ciebie mam...")
@@ -17,8 +16,8 @@ while not zgadl:   #rozwin warunek dla while
         print("Brawo, udało Ci się")
         break
 
-    elif x == 7:
-        print("Game Over")
+    elif x >= 8:
+        print("Game Over - wykorzystałeś wszystkie próby")
         break
 
 
